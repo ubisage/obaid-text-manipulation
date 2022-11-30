@@ -1,11 +1,11 @@
 import { useState } from "react";
 import "./App.css";
-import Alert from "./components/Alert";
-import About from "./components/About";
-import Navbar from "./components/Navbar";
-import TextForm from "./components/TextForm";
-import {BrowserRouter, Route, Routes, } from "react-router-dom";
-
+import Alert from "./routes/Alert";
+import About from "./routes/About";
+import Navbar from "./Navbar";
+import TextForm from "./routes/TextForm";
+import { Route, Routes, } from "react-router-dom";
+// BrowserRouter
 function App() {
   //ALERTS
   const [alert, setAlert] = useState(null);
@@ -33,7 +33,7 @@ function App() {
   };
   return (
     <>
-    <BrowserRouter>
+    {/* <BrowserRouter> */}
       <Navbar
         title="OBAID"
         aboutText="About US"
@@ -50,13 +50,14 @@ function App() {
             </Route>
             <Route path="/" element={<TextForm heading="Enter text to analyze"  mode={mode} showAlert={showAlert} />}>
             </Route>
+            
           </Routes>
         
         {/* <TextForm heading="Enter text to analyze"  mode={mode} showAlert={showAlert} />
         <About /> */}
         
       </div>
-      </BrowserRouter>
+      {/* </BrowserRouter> */}
     </>
   );
 }
