@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Bobaid-text-manipulation%7D/static/css/main.62a18e5f.css",
+    "main.js": "/%7Bobaid-text-manipulation%7D/static/js/main.eca7740c.js",
+    "static/js/787.92e1c401.chunk.js": "/%7Bobaid-text-manipulation%7D/static/js/787.92e1c401.chunk.js",
+    "index.html": "/%7Bobaid-text-manipulation%7D/index.html",
+    "main.62a18e5f.css.map": "/%7Bobaid-text-manipulation%7D/static/css/main.62a18e5f.css.map",
+    "main.eca7740c.js.map": "/%7Bobaid-text-manipulation%7D/static/js/main.eca7740c.js.map",
+    "787.92e1c401.chunk.js.map": "/%7Bobaid-text-manipulation%7D/static/js/787.92e1c401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a18e5f.css",
+    "static/js/main.eca7740c.js"
+  ]
+}
