@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Bobaid-text-manipulation%7D/static/css/main.62a18e5f.css",
-    "main.js": "/%7Bobaid-text-manipulation%7D/static/js/main.a02ba180.js",
-    "static/js/787.92e1c401.chunk.js": "/%7Bobaid-text-manipulation%7D/static/js/787.92e1c401.chunk.js",
-    "index.html": "/%7Bobaid-text-manipulation%7D/index.html",
-    "main.62a18e5f.css.map": "/%7Bobaid-text-manipulation%7D/static/css/main.62a18e5f.css.map",
-    "main.a02ba180.js.map": "/%7Bobaid-text-manipulation%7D/static/js/main.a02ba180.js.map",
-    "787.92e1c401.chunk.js.map": "/%7Bobaid-text-manipulation%7D/static/js/787.92e1c401.chunk.js.map"
+    "main.css": "/obaid-text-manipulation/static/css/main.62a18e5f.css",
+    "main.js": "/obaid-text-manipulation/static/js/main.a4492a0b.js",
+    "static/js/787.92e1c401.chunk.js": "/obaid-text-manipulation/static/js/787.92e1c401.chunk.js",
+    "index.html": "/obaid-text-manipulation/index.html",
+    "main.62a18e5f.css.map": "/obaid-text-manipulation/static/css/main.62a18e5f.css.map",
+    "main.a4492a0b.js.map": "/obaid-text-manipulation/static/js/main.a4492a0b.js.map",
+    "787.92e1c401.chunk.js.map": "/obaid-text-manipulation/static/js/787.92e1c401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62a18e5f.css",
-    "static/js/main.a02ba180.js"
+    "static/js/main.a4492a0b.js"
   ]
 }
